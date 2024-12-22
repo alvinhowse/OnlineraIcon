@@ -1,0 +1,9 @@
+@font-face {
+font-family: OnlineraIcon Symbols;
+src: url("symbols.otf");
+}
+.oa-folder, .oa-file, .oa-circled-plus, .oa-plus, .oa-circled-cross, .oa-cross, .oa-circled-info, .oa-info, .oa-trash, .oa-external-link {
+font-family: OnlineraIcon Symbols;
+font-style: normal !important;
+font-weight: 400 !important;
+}
